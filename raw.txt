@@ -1,0 +1,14 @@
+List of things on the website-
+-Home page:
+    1. Name of school
+    2. Contact information
+-Extracurricular Activities:
+    1. All sports teams
+    2. All Clubs
+-Important event(s)/trip(s):
+    1. School provides freshman college trip
+    2. Senior trip to Disney
+-Student classes/honor role/NHS:
+    1. All elective classes
+    2. All AP classes
+    3. What is NHS
