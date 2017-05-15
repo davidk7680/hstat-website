@@ -2,9 +2,15 @@ button {
     transition-duration: 0.4s;
     background-color: white; 
     color: black;
+    padding:10px 50px;
+    
 }
 button:hover {
     background-color: grey;
     color: white;
+}
+
+body{
+    background-color:yellow;
 }
 
